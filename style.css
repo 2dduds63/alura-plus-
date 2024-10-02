@@ -1,10 +1,10 @@
 :root {
-    --branco-principal: ##a408ed;
+    --branco-principal: #a408ed;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #000000;
-    --cor-de-fundo: #ffffff;
+    --botao-azul: #f2f3f4;
+    --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #d16260;
+    --botao-azul-efeito: #3c92fa;
 }
 
 body {
@@ -129,7 +129,7 @@ body {
     margin-top: 1em;
 }
 
-.lista__link a {
+.lista__link a{
     text-decoration: none;
     color: var(--branco-principal);
     margin-left: 1em;
